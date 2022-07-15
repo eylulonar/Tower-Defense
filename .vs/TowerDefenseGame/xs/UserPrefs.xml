@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{C31B3319-A344-1EE8-88BF-04CE4679CD97}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LightEffect.cs">
+    <Files>
+      <File FileName="Assets/LightEffect.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TowerDefenseGame" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="19d37b37-24d4-4c46-9224-a3346cd507f7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
