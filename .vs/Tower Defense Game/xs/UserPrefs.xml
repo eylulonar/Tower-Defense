@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UIManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UIManager.cs" Line="57" Column="147" />
+      <File FileName="Assets/LightEffect.cs" />
+      <File FileName="Assets/Scripts/Monster.cs" />
+      <File FileName="Assets/Scripts/MonsterSpawner.cs" Line="62" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2c6881c3-de25-41da-9a76-b38398d132cf" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
